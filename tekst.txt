@@ -1,0 +1,6 @@
+2115
+total 17
+drwxr-xr-x 1 Lisiecki 197121 0 Oct  8 20:20 ./
+drwxr-xr-x 1 Lisiecki 197121 0 Oct  8 20:09 ../
+drwxr-xr-x 1 Lisiecki 197121 0 Oct  8 20:10 .git/
+-rw-r--r-- 1 Lisiecki 197121 5 Oct  8 20:28 tekst.txt
